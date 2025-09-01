@@ -1,5 +1,5 @@
 ---
-title: "Quantum Gravity: roadblocks, inroads, and the slow grind toward proof"
+title: "Quantum Gravity: Roadblocks, Inroads, and the Slow Grind Toward Proof"
 description: "What actually makes quantum gravity so hard, where the math and experiments are finally giving traction, and the concrete milestones that would count as real progress toward a provable solution."
 pubDate: 2025-08-31
 tags: ["physics", "quantum gravity", "general relativity", "holography", "string theory", "loop quantum gravity", "EFT", "black holes"]
